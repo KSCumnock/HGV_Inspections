@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-11-12T16:24:42.034Z",
+  "vehicleInfo": {
+    "regMark": "TEST2",
+    "inspectionDate": "2025-11-12",
+    "location": "Riverside Garage, Ayr Road, Cumnock, KA18 1BJ"
+  },
+  "allFormFields": {},
+  "checklist": {},
+  "comments": [],
+  "signatures": {
+    "technician": {
+      "name": "",
+      "signature": null
+    },
+    "driver": {
+      "name": "",
+      "signature": null
+    }
+  },
+  "logo": null
+}
