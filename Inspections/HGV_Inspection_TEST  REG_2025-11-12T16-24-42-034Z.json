@@ -1,0 +1,222 @@
+{
+  "timestamp": "2025-11-12T16:24:42.034Z",
+  "vehicleInfo": {},
+  "checklist": [
+    {
+      "item": "1",
+      "status": "ok"
+    },
+    {
+      "item": "2",
+      "status": "ok"
+    },
+    {
+      "item": "3",
+      "status": "ok"
+    },
+    {
+      "item": "4",
+      "status": "ok"
+    },
+    {
+      "item": "5",
+      "status": "ok"
+    },
+    {
+      "item": "6",
+      "status": "defect"
+    },
+    {
+      "item": "7",
+      "status": "ok"
+    },
+    {
+      "item": "8",
+      "status": "ok"
+    },
+    {
+      "item": "9",
+      "status": "ok"
+    },
+    {
+      "item": "10",
+      "status": "ok"
+    },
+    {
+      "item": "11",
+      "status": "ok"
+    },
+    {
+      "item": "12",
+      "status": "ok"
+    },
+    {
+      "item": "13",
+      "status": "ok"
+    },
+    {
+      "item": "14",
+      "status": "ok"
+    },
+    {
+      "item": "15",
+      "status": "ok"
+    },
+    {
+      "item": "16",
+      "status": "ok"
+    },
+    {
+      "item": "17",
+      "status": "ok"
+    },
+    {
+      "item": "18",
+      "status": "ok"
+    },
+    {
+      "item": "19",
+      "status": "ok"
+    },
+    {
+      "item": "20",
+      "status": "ok"
+    },
+    {
+      "item": "21",
+      "status": "ok"
+    },
+    {
+      "item": "22",
+      "status": "ok"
+    },
+    {
+      "item": "23",
+      "status": "ok"
+    },
+    {
+      "item": "24",
+      "status": "ok"
+    },
+    {
+      "item": "25",
+      "status": "ok"
+    },
+    {
+      "item": "26",
+      "status": "repair"
+    },
+    {
+      "item": "27",
+      "status": "ok"
+    },
+    {
+      "item": "28",
+      "status": "ok"
+    },
+    {
+      "item": "29",
+      "status": "ok"
+    },
+    {
+      "item": "30",
+      "status": "ok"
+    },
+    {
+      "item": "31",
+      "status": "ok"
+    },
+    {
+      "item": "32",
+      "status": "ok"
+    },
+    {
+      "item": "33",
+      "status": "ok"
+    },
+    {
+      "item": "34",
+      "status": "ok"
+    },
+    {
+      "item": "35",
+      "status": "ok"
+    },
+    {
+      "item": "36",
+      "status": "ok"
+    },
+    {
+      "item": "37",
+      "status": "ok"
+    },
+    {
+      "item": "38",
+      "status": "ok"
+    },
+    {
+      "item": "39",
+      "status": "ok"
+    },
+    {
+      "item": "40",
+      "status": "ok"
+    },
+    {
+      "item": "41",
+      "status": "ok"
+    },
+    {
+      "item": "42",
+      "status": "ok"
+    },
+    {
+      "item": "43",
+      "status": "ok"
+    },
+    {
+      "item": "44",
+      "status": "ok"
+    },
+    {
+      "item": "45",
+      "status": "ok"
+    },
+    {
+      "item": "46",
+      "status": "ok"
+    },
+    {
+      "item": "47",
+      "status": "ok"
+    },
+    {
+      "item": "48",
+      "status": "ok"
+    },
+    {
+      "item": "49",
+      "status": "ok"
+    },
+    {
+      "item": "50",
+      "status": "ok"
+    }
+  ],
+  "tyres": [],
+  "brakes": [],
+  "emissions": {},
+  "comments": [],
+  "additionalNotes": "",
+  "signatures": {
+    "technician": {
+      "name": "",
+      "signature": null
+    },
+    "driver": {
+      "name": "",
+      "signature": null
+    }
+  },
+  "logo": "file:///Users/seankelly/Downloads/files-3/kandslogo.png"
+}
