@@ -1,0 +1,363 @@
+{
+  "timestamp": "2025-12-05T16:07:29.774Z",
+  "vehicleInfo": {
+    "regMark": "SB24 UOE",
+    "inspectionDate": "2025-12-05",
+    "location": "Riverside Garage, Ayr Road, Cumnock, KA18 1BJ"
+  },
+  "allFormFields": {
+    "regMark": "SB24 UOE",
+    "odometer": "85978km",
+    "makeModel": "DAF Lf",
+    "vin": "",
+    "inspectionDate": "2025-12-05",
+    "isoWeek": "",
+    "inspectionOrg": "Kerr & Smith Cumnock Ltd",
+    "operator": "Ryan O Neil",
+    "location": "Riverside Garage, Ayr Road, Cumnock, KA18 1BJ",
+    "tyre_os_out_tread_1": "8",
+    "tyre_os_out_psi_1": "",
+    "tyre_os_out_tread_2": "6",
+    "tyre_os_out_psi_2": "",
+    "tyre_os_out_tread_3": "",
+    "tyre_os_out_psi_3": "",
+    "tyre_os_out_tread_4": "",
+    "tyre_os_out_psi_4": "",
+    "tyre_os_in_tread_1": "",
+    "tyre_os_in_psi_1": "",
+    "tyre_os_in_tread_2": "6",
+    "tyre_os_in_psi_2": "",
+    "tyre_os_in_tread_3": "",
+    "tyre_os_in_psi_3": "",
+    "tyre_os_in_tread_4": "",
+    "tyre_os_in_psi_4": "",
+    "tyre_ns_in_tread_1": "11",
+    "tyre_ns_in_psi_1": "",
+    "tyre_ns_in_tread_2": "13",
+    "tyre_ns_in_psi_2": "",
+    "tyre_ns_in_tread_3": "",
+    "tyre_ns_in_psi_3": "",
+    "tyre_ns_in_tread_4": "",
+    "tyre_ns_in_psi_4": "",
+    "tyre_ns_out_tread_1": "",
+    "tyre_ns_out_psi_1": "",
+    "tyre_ns_out_tread_2": "12",
+    "tyre_ns_out_psi_2": "",
+    "tyre_ns_out_tread_3": "",
+    "tyre_ns_out_psi_3": "",
+    "tyre_ns_out_tread_4": "",
+    "tyre_ns_out_psi_4": "",
+    "brakeAssessmentDate": "2025-12-05",
+    "ladenStatus": "laden",
+    "testMethod": "rbt",
+    "serviceBrakeEff": "70",
+    "secondaryBrakeEff": "",
+    "parkingBrakeEff": "25",
+    "ebpms_value": "",
+    "ebpms_period": "",
+    "ambientTemp": "",
+    "temp_ns_1": "",
+    "temp_ns_2": "",
+    "temp_ns_3": "",
+    "temp_ns_4": "",
+    "temp_ns_1b": "",
+    "temp_ns_2b": "",
+    "temp_ns_3b": "",
+    "temp_ns_4b": "",
+    "temp_os_1": "",
+    "temp_os_2": "",
+    "temp_os_3": "",
+    "temp_os_4": "",
+    "temp_os_1b": "",
+    "temp_os_2b": "",
+    "temp_os_3b": "",
+    "temp_os_4b": "",
+    "brake_imbalance_1": "",
+    "brake_ns_timelag_1": "",
+    "brake_os_timelag_1": "",
+    "brake_ovality_1": "",
+    "brake_bind_1": "",
+    "brake_ns_maxforce_1": "1416L",
+    "brake_os_maxforce_1": "1749L",
+    "brake_ns_parking_1": "",
+    "brake_os_parking_1": "",
+    "brake_imbalance_2": "",
+    "brake_ns_timelag_2": "",
+    "brake_os_timelag_2": "",
+    "brake_ovality_2": "",
+    "brake_bind_2": "",
+    "brake_ns_maxforce_2": "2189",
+    "brake_os_maxforce_2": "2264",
+    "brake_ns_parking_2": "1214L",
+    "brake_os_parking_2": "1825L",
+    "brake_imbalance_3": "",
+    "brake_ns_timelag_3": "",
+    "brake_os_timelag_3": "",
+    "brake_ovality_3": "",
+    "brake_bind_3": "",
+    "brake_ns_maxforce_3": "",
+    "brake_os_maxforce_3": "",
+    "brake_ns_parking_3": "",
+    "brake_os_parking_3": "",
+    "brake_imbalance_4": "",
+    "brake_ns_timelag_4": "",
+    "brake_os_timelag_4": "",
+    "brake_ovality_4": "",
+    "brake_bind_4": "",
+    "brake_ns_maxforce_4": "",
+    "brake_os_maxforce_4": "",
+    "brake_ns_parking_4": "",
+    "brake_os_parking_4": "",
+    "ebpms_value_dup": "",
+    "ebpms_period_dup": "",
+    "overallResult": "satisfactory",
+    "inspectorComments": "",
+    "smokeOpacity": "0.00",
+    "plateValue": "",
+    "emissionsResult": "pass",
+    "dpfPresent": "yes",
+    "visibleSmoke": "none",
+    "milStatus": "off",
+    "tachoCalibDate": "2026-06-14",
+    "tachoSeal": "yes",
+    "speedLimiterDate": "",
+    "motDueDate": "",
+    "comment_check_1": "16",
+    "comment_fault_1": "SD",
+    "comment_details_1": "Engine management light on ",
+    "comment_check_3": "40",
+    "comment_fault_3": "M",
+    "comment_details_3": "NSF anti tool bar Bush has slight play will replace at next inspection ",
+    "inspectorName": "",
+    "inspectorPosition": "",
+    "inspectorDate": "2025-12-05",
+    "technicianName": "",
+    "technicianPosition": "",
+    "technicianDate": "2025-12-05"
+  },
+  "checklist": {
+    "check_1": {
+      "name": "Seats*",
+      "status": "ok"
+    },
+    "check_2": {
+      "name": "Seat Belts and Supplementary Restraint Systems*",
+      "status": "ok"
+    },
+    "check_3": {
+      "name": "Mirrors and Indirect Vision Devices*",
+      "status": "ok"
+    },
+    "check_4": {
+      "name": "Glass and View of the Road*",
+      "status": "ok"
+    },
+    "check_5": {
+      "name": "Windscreen Washers and Wipers*",
+      "status": "ok"
+    },
+    "check_6": {
+      "name": "Speedometer / Tachograph*",
+      "status": "ok"
+    },
+    "check_7": {
+      "name": "Horn*",
+      "status": "ok"
+    },
+    "check_8": {
+      "name": "Driving Controls / Warning Lamps (Inc ADAS)*",
+      "status": "ok"
+    },
+    "check_9": {
+      "name": "Steering Control*",
+      "status": "ok"
+    },
+    "check_10": {
+      "name": "Service Brake Pedal*",
+      "status": "ok"
+    },
+    "check_11": {
+      "name": "Service Brake Operation (inc ABS/EBS, ESC & ISO 7638 cable)",
+      "status": "ok"
+    },
+    "check_12": {
+      "name": "Pressure / Vacuum Warning and Build Up*",
+      "status": "ok"
+    },
+    "check_13": {
+      "name": "Hand Lever Operating Mechanical Park Brakes and Electronic Park Brake Control*",
+      "status": "ok"
+    },
+    "check_14": {
+      "name": "Hand Operated Brake Control Valves",
+      "status": "ok"
+    },
+    "check_15": {
+      "name": "Cab Floors and Steps*",
+      "status": "ok"
+    },
+    "check_16": {
+      "name": "OBD - Diagnostic trouble code (DTC) check",
+      "status": "defect"
+    },
+    "check_17": {
+      "name": "Cab Doors*",
+      "status": "ok"
+    },
+    "check_18": {
+      "name": "Registration Plates*",
+      "status": "ok"
+    },
+    "check_19": {
+      "name": "Cab Security*",
+      "status": "ok"
+    },
+    "check_20": {
+      "name": "Security of Body, Containers and Crane Support Legs",
+      "status": "ok"
+    },
+    "check_21": {
+      "name": "Condition of Body",
+      "status": "ok"
+    },
+    "check_22": {
+      "name": "Exhaust Emissions* / MIL",
+      "status": "ok"
+    },
+    "check_23": {
+      "name": "Road Wheels and Hubs",
+      "status": "ok"
+    },
+    "check_24": {
+      "name": "Size and Type of Tyres",
+      "status": "ok"
+    },
+    "check_25": {
+      "name": "Condition of Tyres (including age and date code)",
+      "status": "ok"
+    },
+    "check_26": {
+      "name": "Sideguards, Rear Under-Run Devices and Bumper Bars",
+      "status": "ok"
+    },
+    "check_27": {
+      "name": "Spare Wheel and Carrier",
+      "status": "na"
+    },
+    "check_28": {
+      "name": "Condition of Chassis",
+      "status": "ok"
+    },
+    "check_29": {
+      "name": "Vehicle to Trailer Coupling",
+      "status": "ok"
+    },
+    "check_30": {
+      "name": "Trailer Parking and Emergency Brake and Air Line Connections",
+      "status": "na"
+    },
+    "check_31": {
+      "name": "Trailer Landing Legs",
+      "status": "na"
+    },
+    "check_32": {
+      "name": "Spray Suppression, Wings and Wheel Arches",
+      "status": "ok"
+    },
+    "check_33": {
+      "name": "Speed Limiter*",
+      "status": "ok"
+    },
+    "check_34": {
+      "name": "Electrical Wiring and Equipment",
+      "status": "ok"
+    },
+    "check_35": {
+      "name": "Engine and Transmission Mountings*",
+      "status": "ok"
+    },
+    "check_36": {
+      "name": "Oil Leaks",
+      "status": "ok"
+    },
+    "check_37": {
+      "name": "Fuel Tanks and System",
+      "status": "ok"
+    },
+    "check_38": {
+      "name": "Exhaust Systems and Nuisance*",
+      "status": "ok"
+    },
+    "check_39": {
+      "name": "Steering",
+      "status": "ok"
+    },
+    "check_40": {
+      "name": "Suspension",
+      "status": "monitor"
+    },
+    "check_41": {
+      "name": "Axles, Stub Axles and Wheel Bearings",
+      "status": "ok"
+    },
+    "check_42": {
+      "name": "Transmission",
+      "status": "ok"
+    },
+    "check_43": {
+      "name": "Additional Braking Devices",
+      "status": "ok"
+    },
+    "check_44": {
+      "name": "Brake Systems and Components",
+      "status": "ok"
+    },
+    "check_45": {
+      "name": "Markers and Reflectors",
+      "status": "ok"
+    },
+    "check_46": {
+      "name": "Lamps",
+      "status": "ok"
+    },
+    "check_47": {
+      "name": "Direction Indicators and Hazard Warning Lamps",
+      "status": "ok"
+    },
+    "check_48": {
+      "name": "Aim of Headlamps*",
+      "status": "ok"
+    },
+    "check_49": {
+      "name": "Other dangerous defects",
+      "status": "ok"
+    },
+    "check_50": {
+      "name": "Safety recall check",
+      "status": "ok"
+    }
+  },
+  "faultComments": [
+    {
+      "checkNo": "16",
+      "faultType": "SD",
+      "details": "Engine management light on "
+    },
+    {
+      "checkNo": "40",
+      "faultType": "M",
+      "details": "NSF anti tool bar Bush has slight play will replace at next inspection "
+    }
+  ],
+  "signatures": {
+    "inspector": {
+      "name": "",
+      "signature": null
+    },
+    "technician": {
+      "name": "",
+      "signature": null
+    }
+  },
+  "logo": null
+}
