@@ -1,0 +1,419 @@
+{
+  "timestamp": "2026-09-08T13:34:38.992Z",
+  "vehicleInfo": {
+    "regMark": "SJ66 NHB",
+    "inspectionDate": "2026-09-08",
+    "location": "Riverside Garage, Ayr Road, Cumnock, KA18 1BJ"
+  },
+  "allFormFields": {
+    "regMark": "SJ66 NHB",
+    "odometer": "341531",
+    "makeModel": "Merc Antos",
+    "vin": "",
+    "inspectionDate": "2026-09-08",
+    "isoWeek": "",
+    "inspectionOrg": "Kerr & Smith Cumnock Ltd",
+    "operator": "Kerr & Smith",
+    "location": "Riverside Garage, Ayr Road, Cumnock, KA18 1BJ",
+    "tyre_os_out_tread_1": "9",
+    "tyre_os_out_psi_1": "",
+    "tyre_os_out_tread_2": "16",
+    "tyre_os_out_psi_2": "",
+    "tyre_os_out_tread_3": "",
+    "tyre_os_out_psi_3": "",
+    "tyre_os_out_tread_4": "",
+    "tyre_os_out_psi_4": "",
+    "tyre_os_in_tread_1": "",
+    "tyre_os_in_psi_1": "",
+    "tyre_os_in_tread_2": "",
+    "tyre_os_in_psi_2": "12",
+    "tyre_os_in_tread_3": "",
+    "tyre_os_in_psi_3": "",
+    "tyre_os_in_tread_4": "",
+    "tyre_os_in_psi_4": "",
+    "tyre_ns_in_tread_1": "",
+    "tyre_ns_in_psi_1": "",
+    "tyre_ns_in_tread_2": "7",
+    "tyre_ns_in_psi_2": "",
+    "tyre_ns_in_tread_3": "",
+    "tyre_ns_in_psi_3": "",
+    "tyre_ns_in_tread_4": "",
+    "tyre_ns_in_psi_4": "",
+    "tyre_ns_out_tread_1": "13",
+    "tyre_ns_out_psi_1": "",
+    "tyre_ns_out_tread_2": "7",
+    "tyre_ns_out_psi_2": "",
+    "tyre_ns_out_tread_3": "",
+    "tyre_ns_out_psi_3": "",
+    "tyre_ns_out_tread_4": "",
+    "tyre_ns_out_psi_4": "",
+    "brakeAssessmentDate": "2026-09-08",
+    "ladenStatus": "laden",
+    "testMethod": "rbt",
+    "serviceBrakeEff": "",
+    "secondaryBrakeEff": "",
+    "parkingBrakeEff": "",
+    "ebpms_value": "",
+    "ebpms_period": "",
+    "ambientTemp": "",
+    "temp_ns_1": "",
+    "temp_ns_2": "",
+    "temp_ns_3": "",
+    "temp_ns_4": "",
+    "temp_ns_1b": "",
+    "temp_ns_2b": "",
+    "temp_ns_3b": "",
+    "temp_ns_4b": "",
+    "temp_os_1": "",
+    "temp_os_2": "",
+    "temp_os_3": "",
+    "temp_os_4": "",
+    "temp_os_1b": "",
+    "temp_os_2b": "",
+    "temp_os_3b": "",
+    "temp_os_4b": "",
+    "brake_imbalance_1": "",
+    "brake_ns_timelag_1": "",
+    "brake_os_timelag_1": "",
+    "brake_ovality_1": "",
+    "brake_bind_1": "",
+    "brake_ns_maxforce_1": "1912L",
+    "brake_os_maxforce_1": "2093L",
+    "brake_ns_parking_1": "",
+    "brake_os_parking_1": "",
+    "brake_imbalance_2": "",
+    "brake_ns_timelag_2": "",
+    "brake_os_timelag_2": "",
+    "brake_ovality_2": "",
+    "brake_bind_2": "",
+    "brake_ns_maxforce_2": "2117L",
+    "brake_os_maxforce_2": "1844L",
+    "brake_ns_parking_2": "1839L",
+    "brake_os_parking_2": "1729L",
+    "brake_imbalance_3": "",
+    "brake_ns_timelag_3": "",
+    "brake_os_timelag_3": "",
+    "brake_ovality_3": "",
+    "brake_bind_3": "",
+    "brake_ns_maxforce_3": "1219L",
+    "brake_os_maxforce_3": "1259L",
+    "brake_ns_parking_3": "998L",
+    "brake_os_parking_3": "1215L",
+    "brake_imbalance_4": "",
+    "brake_ns_timelag_4": "",
+    "brake_os_timelag_4": "",
+    "brake_ovality_4": "",
+    "brake_bind_4": "",
+    "brake_ns_maxforce_4": "",
+    "brake_os_maxforce_4": "",
+    "brake_ns_parking_4": "",
+    "brake_os_parking_4": "",
+    "ebpms_value_dup": "",
+    "ebpms_period_dup": "",
+    "overallResult": "satisfactory",
+    "inspectorComments": "",
+    "smokeOpacity": "0.02",
+    "plateValue": "",
+    "emissionsResult": "pass",
+    "dpfPresent": "yes",
+    "visibleSmoke": "none",
+    "milStatus": "off",
+    "tachoCalibDate": "",
+    "tachoSeal": "yes",
+    "speedLimiterDate": "",
+    "motDueDate": "",
+    "comment_check_1": "36",
+    "comment_fault_1": "M",
+    "comment_details_1": "Slight oil leak from engine advise to monitor between inspections ",
+    "comment_check_2": "40",
+    "comment_fault_2": "SD",
+    "comment_details_2": "N/S/F rear spring spring eye bush worn - Requires new bush ",
+    "comment_check_3": "40",
+    "comment_fault_3": "R",
+    "comment_details_3": "O/S/F drop link has play ",
+    "comment_check_4": "18",
+    "comment_fault_4": "R",
+    "comment_details_4": "Requires new DVLA plating certificate ",
+    "comment_check_5": "49",
+    "comment_fault_5": "R",
+    "comment_details_5": "Air dryer silencer missing ",
+    "comment_check_6": "49",
+    "comment_fault_6": "R",
+    "comment_details_6": "Coolant leak from head gasket ",
+    "comment_check_7": "45",
+    "comment_fault_7": "R",
+    "comment_details_7": "Requires red reflective tape on rear bumper ",
+    "comment_check_8": "34",
+    "comment_fault_8": "R",
+    "comment_details_8": "MAF sensor wiring run across turbo - Requires wiring rerouted and ",
+    "comment_check_10": "21",
+    "comment_fault_10": "R",
+    "comment_details_10": "Rear tail bolts all slack ",
+    "inspectorName": "C.Smith",
+    "inspectorPosition": "Technician",
+    "inspectorDate": "2026-09-08",
+    "technicianName": "",
+    "technicianPosition": "",
+    "technicianDate": "2026-09-08"
+  },
+  "checklist": {
+    "check_1": {
+      "name": "Seats*",
+      "status": "ok"
+    },
+    "check_2": {
+      "name": "Seat Belts and Supplementary Restraint Systems*",
+      "status": "ok"
+    },
+    "check_3": {
+      "name": "Mirrors and Indirect Vision Devices*",
+      "status": "ok"
+    },
+    "check_4": {
+      "name": "Glass and View of the Road*",
+      "status": "ok"
+    },
+    "check_5": {
+      "name": "Windscreen Washers and Wipers*",
+      "status": "ok"
+    },
+    "check_6": {
+      "name": "Speedometer / Tachograph*",
+      "status": "ok"
+    },
+    "check_7": {
+      "name": "Horn*",
+      "status": "ok"
+    },
+    "check_8": {
+      "name": "Driving Controls / Warning Lamps (Inc ADAS)*",
+      "status": "ok"
+    },
+    "check_9": {
+      "name": "Steering Control*",
+      "status": "ok"
+    },
+    "check_10": {
+      "name": "Service Brake Pedal*",
+      "status": "ok"
+    },
+    "check_11": {
+      "name": "Service Brake Operation (inc ABS/EBS, ESC & ISO 7638 cable)",
+      "status": "ok"
+    },
+    "check_12": {
+      "name": "Pressure / Vacuum Warning and Build Up*",
+      "status": "ok"
+    },
+    "check_13": {
+      "name": "Hand Lever Operating Mechanical Park Brakes and Electronic Park Brake Control*",
+      "status": "ok"
+    },
+    "check_14": {
+      "name": "Hand Operated Brake Control Valves",
+      "status": "ok"
+    },
+    "check_15": {
+      "name": "Cab Floors and Steps*",
+      "status": "ok"
+    },
+    "check_16": {
+      "name": "OBD - Diagnostic trouble code (DTC) check",
+      "status": "ok"
+    },
+    "check_17": {
+      "name": "Cab Doors*",
+      "status": "ok"
+    },
+    "check_18": {
+      "name": "Registration Plates*",
+      "status": "repair"
+    },
+    "check_19": {
+      "name": "Cab Security*",
+      "status": "ok"
+    },
+    "check_20": {
+      "name": "Security of Body, Containers and Crane Support Legs",
+      "status": "ok"
+    },
+    "check_21": {
+      "name": "Condition of Body",
+      "status": "repair"
+    },
+    "check_22": {
+      "name": "Exhaust Emissions* / MIL",
+      "status": "ok"
+    },
+    "check_23": {
+      "name": "Road Wheels and Hubs",
+      "status": "ok"
+    },
+    "check_24": {
+      "name": "Size and Type of Tyres",
+      "status": "ok"
+    },
+    "check_25": {
+      "name": "Condition of Tyres (including age and date code)",
+      "status": "ok"
+    },
+    "check_26": {
+      "name": "Sideguards, Rear Under-Run Devices and Bumper Bars",
+      "status": "ok"
+    },
+    "check_27": {
+      "name": "Spare Wheel and Carrier",
+      "status": "na"
+    },
+    "check_28": {
+      "name": "Condition of Chassis",
+      "status": "ok"
+    },
+    "check_29": {
+      "name": "Vehicle to Trailer Coupling",
+      "status": "na"
+    },
+    "check_30": {
+      "name": "Trailer Parking and Emergency Brake and Air Line Connections",
+      "status": "na"
+    },
+    "check_31": {
+      "name": "Trailer Landing Legs",
+      "status": "na"
+    },
+    "check_32": {
+      "name": "Spray Suppression, Wings and Wheel Arches",
+      "status": "ok"
+    },
+    "check_33": {
+      "name": "Speed Limiter*",
+      "status": "ok"
+    },
+    "check_34": {
+      "name": "Electrical Wiring and Equipment",
+      "status": "repair"
+    },
+    "check_35": {
+      "name": "Engine and Transmission Mountings*",
+      "status": "ok"
+    },
+    "check_36": {
+      "name": "Oil Leaks",
+      "status": "monitor"
+    },
+    "check_37": {
+      "name": "Fuel Tanks and System",
+      "status": "ok"
+    },
+    "check_38": {
+      "name": "Exhaust Systems and Nuisance*",
+      "status": "ok"
+    },
+    "check_39": {
+      "name": "Steering",
+      "status": "ok"
+    },
+    "check_40": {
+      "name": "Suspension",
+      "status": "defect"
+    },
+    "check_41": {
+      "name": "Axles, Stub Axles and Wheel Bearings",
+      "status": "ok"
+    },
+    "check_42": {
+      "name": "Transmission",
+      "status": "ok"
+    },
+    "check_43": {
+      "name": "Additional Braking Devices",
+      "status": "ok"
+    },
+    "check_44": {
+      "name": "Brake Systems and Components",
+      "status": "ok"
+    },
+    "check_45": {
+      "name": "Markers and Reflectors",
+      "status": "repair"
+    },
+    "check_46": {
+      "name": "Lamps",
+      "status": "ok"
+    },
+    "check_47": {
+      "name": "Direction Indicators and Hazard Warning Lamps",
+      "status": "ok"
+    },
+    "check_48": {
+      "name": "Aim of Headlamps*",
+      "status": "ok"
+    },
+    "check_49": {
+      "name": "Other dangerous defects",
+      "status": "repair"
+    },
+    "check_50": {
+      "name": "Safety recall check",
+      "status": "ok"
+    }
+  },
+  "faultComments": [
+    {
+      "checkNo": "36",
+      "faultType": "M",
+      "details": "Slight oil leak from engine advise to monitor between inspections "
+    },
+    {
+      "checkNo": "40",
+      "faultType": "SD",
+      "details": "N/S/F rear spring spring eye bush worn - Requires new bush "
+    },
+    {
+      "checkNo": "40",
+      "faultType": "R",
+      "details": "O/S/F drop link has play "
+    },
+    {
+      "checkNo": "18",
+      "faultType": "R",
+      "details": "Requires new DVLA plating certificate "
+    },
+    {
+      "checkNo": "49",
+      "faultType": "R",
+      "details": "Air dryer silencer missing "
+    },
+    {
+      "checkNo": "49",
+      "faultType": "R",
+      "details": "Coolant leak from head gasket "
+    },
+    {
+      "checkNo": "45",
+      "faultType": "R",
+      "details": "Requires red reflective tape on rear bumper "
+    },
+    {
+      "checkNo": "34",
+      "faultType": "R",
+      "details": "MAF sensor wiring run across turbo - Requires wiring rerouted and "
+    },
+    {
+      "checkNo": "21",
+      "faultType": "R",
+      "details": "Rear tail bolts all slack "
+    }
+  ],
+  "signatures": {
+    "inspector": {
+      "name": "C.Smith",
+      "signature": null
+    },
+    "technician": {
+      "name": "",
+      "signature": null
+    }
+  },
+  "logo": null
+}
